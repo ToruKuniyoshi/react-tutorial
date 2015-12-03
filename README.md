@@ -18,7 +18,7 @@ node server.js
 ### Python
 
 ```sh
-pip install -r requirements.txt
+pip install -r requirements.txtjjijlij
 python server.py
 ```
 
